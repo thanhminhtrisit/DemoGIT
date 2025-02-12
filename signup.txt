@@ -1,4 +1,2 @@
 signup has been done!
 CompB update signup!
-
-CompB has been branched!
